@@ -12,7 +12,7 @@ This is an app that can create drink order. All drink information comes from Air
 * Custom order option based on the drink
 * Fool proofing by using custom UIAlertController
 
-![Simulator Screen Shot - iPhone 11 - 2022-05-11 at 01 28 53](https://user-images.githubusercontent.com/45663826/167687639-c9079d63-ef29-438f-a9bb-6f829197dd2f.png=450x450)
+![Simulator Screen Shot - iPhone 11 - 2022-05-11 at 01 28 53](https://user-images.githubusercontent.com/45663826/167687639-c9079d63-ef29-438f-a9bb-6f829197dd2f.png =450x450)
 
 * Add / Check / Update menu by using Airtable API
   ![20220511005453289](https://user-images.githubusercontent.com/45663826/167686050-c925ea19-f8d9-44af-989a-a9048f3e5f11.gif)
