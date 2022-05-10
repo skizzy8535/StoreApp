@@ -12,8 +12,12 @@ This is an app that can create drink order. All drink information comes from Air
 * Custom order option based on the drink
 * Fool proofing by using custom UIAlertController
 
+![Simulator Screen Shot - iPhone 11 - 2022-05-11 at 01 28 53](https://user-images.githubusercontent.com/45663826/167687639-c9079d63-ef29-438f-a9bb-6f829197dd2f.png)
+
 * Add / Check / Update menu by using Airtable API
   ![20220511005453289](https://user-images.githubusercontent.com/45663826/167686050-c925ea19-f8d9-44af-989a-a9048f3e5f11.gif)
+  
+  ![20220511012440279](https://user-images.githubusercontent.com/45663826/167687245-245eceec-b21a-4cee-8593-7a7ea78c6f41.gif)
   
 * Check full branch of WooTea in Taiwan
 
@@ -27,4 +31,3 @@ This is an app that can create drink order. All drink information comes from Air
 Get more info in my Notion notes :
 
 [Notes](https://chill-agenda-0a9.notion.site/Order-App-5b029bbaa81d437c92a2ffd0ea07c1d1)
-![20220511005453289](https://user-images.githubusercontent.com/45663826/167686050-c925ea19-f8d9-44af-989a-a9048f3e5f11.gif)
