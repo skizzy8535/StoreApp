@@ -14,7 +14,7 @@ This is an app that can create drink order. All drink information comes from Air
 * Add / Check / Update menu by using Airtable API
 * Check full branch of WooTea in Taiwan
 
-![Poster](https://www.kapwing.com/videos/627a9a005d87100068e9806f)
+![Poster](https://drive.google.com/file/d/1x9NcXS_bSA6yWXIxI3K9BXSEtmU3F8-f/view?usp=sharing)
 
 
 ### Demo Video
