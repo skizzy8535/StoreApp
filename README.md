@@ -11,10 +11,12 @@ This is an app that can create drink order. All drink information comes from Air
 * Collection view with Photo Wall effect
 * Custom order option based on the drink
 * Fool proofing by using custom UIAlertController
+
 * Add / Check / Update menu by using Airtable API
+  ![20220511005453289](https://user-images.githubusercontent.com/45663826/167686050-c925ea19-f8d9-44af-989a-a9048f3e5f11.gif)
+  
 * Check full branch of WooTea in Taiwan
 
-[GIF](https://thumbs.gfycat.com/FineSourHawaiianmonkseal-mobile.mp4)
 
 
 ### Demo Video
@@ -25,3 +27,4 @@ This is an app that can create drink order. All drink information comes from Air
 Get more info in my Notion notes :
 
 [Notes](https://chill-agenda-0a9.notion.site/Order-App-5b029bbaa81d437c92a2ffd0ea07c1d1)
+![20220511005453289](https://user-images.githubusercontent.com/45663826/167686050-c925ea19-f8d9-44af-989a-a9048f3e5f11.gif)
