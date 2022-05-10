@@ -22,4 +22,4 @@ This is an app that can create drink order. All drink information comes from Air
 
 Get more info in my Notion notes :
 
-[Notes](https://chill-agenda-0a9.notion.site/Order-App-5b029bbaa81d437c92a2ffd0ea07c1d14)
+[Notes](https://chill-agenda-0a9.notion.site/Order-App-5b029bbaa81d437c92a2ffd0ea07c1d1)
