@@ -1,0 +1,312 @@
+{
+    "store_items": [
+        {
+            "name": "台北通化旗艦店",
+            "address": "台北市大安區通化街41號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市大安區通化街41號",
+            "phone": "02-27095050",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北虎林店",
+            "address": "台北市信義區虎林街133號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市信義區虎林街133號",
+            "phone": "02-27235566",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北安居店",
+            "address": "台北市大安區安居街7號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市大安區安居街7號",
+            "phone": "02-25630099",
+            "opening_hours": "平日：10:00-22:00\n假日：10:00-22:00"
+        },
+        {
+            "name": "台北晴光市場店",
+            "address": "台北市中山區農安街8-5號1樓",
+            "map_url": "https://www.google.com.tw/maps/place/台北市中山區農安街8-5號1樓",
+            "phone": "02-25931958",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北師大店",
+            "address": "台北市大安區師大路143號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市大安區師大路143號",
+            "phone": "02-23651113",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北興隆店",
+            "address": "台北市文山區興隆路三段120號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市文山區興隆路三段120號",
+            "phone": "02-82301568",
+            "opening_hours": "平日：10:00-22:00\n假日：10:00-22:00"
+        },
+        {
+            "name": "台北公館店",
+            "address": "台北市羅斯福路3段316巷5-1號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市羅斯福路3段316巷5-1號",
+            "phone": "02-23635655",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北科技大樓店",
+            "address": "台北市和平東路二段273號1樓",
+            "map_url": "https://www.google.com.tw/maps/place/台北市和平東路二段273號1樓",
+            "phone": "02-27098577",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北忠孝復興店",
+            "address": "台北市大安區大安路一段49號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市大安區大安路一段49號",
+            "phone": "02-27415252",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北市府店",
+            "address": "台北市信義區永吉路30巷117號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市信義區永吉路30巷117號",
+            "phone": "02-27661500",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北古亭店",
+            "address": "台北市大安區和平東路一段17號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市大安區和平東路一段17號",
+            "phone": "02-23917553",
+            "opening_hours": "平日：10:00-22:00\n假日：10:00-22:00"
+        },
+        {
+            "name": "台北西門店",
+            "address": "台北市萬華區西寧南路48-3號1樓",
+            "map_url": "https://www.google.com.tw/maps/place/台北市萬華區西寧南路48-3號1樓",
+            "phone": "02-23831808",
+            "opening_hours": "平日：10:00-22:00\n假日：10:00-22:00"
+        },
+        {
+            "name": "台北大直店",
+            "address": "台北市中山區大直街53號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市中山區大直街53號",
+            "phone": "02-85095565",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北景美店",
+            "address": "台北市文山區景文街104號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市文山區景文街104號",
+            "phone": "02-29355938",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北饒河店",
+            "address": "台北市松山區八德路四段773號1樓",
+            "map_url": "https://www.google.com.tw/maps/place/台北市松山區八德路四段773號1樓",
+            "phone": "02-27476189",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北士林中正店",
+            "address": "台北市士林區中正路235巷24號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市士林區中正路235巷24號",
+            "phone": "02-28882387",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北開封店",
+            "address": "台北市中正區開封街一段19號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市中正區開封街一段19號",
+            "phone": "02-23818583",
+            "opening_hours": "平日：10:00-22:00\n假日：10:00-22:00"
+        },
+        {
+            "name": "台北伊通店",
+            "address": "台北市中山區伊通街97-1號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市中山區伊通街97-1號",
+            "phone": "02-25070057",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北芝山店",
+            "address": "台北市士林區德行西路54-1號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市士林區德行西路54-1號",
+            "phone": "02-28353560",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北吳興店",
+            "address": "台北市信義區吳興街233號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市信義區吳興街233號",
+            "phone": "02-27205205",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北中山南西店",
+            "address": "台北市大同區南京西路18巷6號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市大同區南京西路18巷6號",
+            "phone": "02-25580866",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "台北內湖東湖店",
+            "address": "台北市內湖區東湖路143號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市內湖區東湖路143號",
+            "phone": "02-26330012",
+            "opening_hours": "平日：09:00-23:00\n假日：10:00-23:00"
+        },
+        {
+            "name": "台北北投石牌店",
+            "address": "台北市北投區石牌路二段62號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市北投區石牌路二段62號",
+            "phone": "02-28236003",
+            "opening_hours": "平日：10:00-22:00\n假日：10:00-22:00"
+        },
+        {
+            "name": "台北內湖店",
+            "address": "台北市內湖區內湖路一段423號",
+            "map_url": "https://www.google.com.tw/maps/place/台北市內湖區內湖路一段423號",
+            "phone": "02-26272866",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "新北板橋中山店",
+            "address": "新北市板橋區中山路一段92號",
+            "map_url": "https://www.google.com.tw/maps/place/新北市板橋區中山路一段92號",
+            "phone": "02-29588977",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "新北板橋埔墘店",
+            "address": "新北市板橋區中山路二段167號",
+            "map_url": "https://www.google.com.tw/maps/place/新北市板橋區中山路二段167號",
+            "phone": "02-29522518",
+            "opening_hours": "平日：09:30-21:30\n假日：09:30-22:00"
+        },
+        {
+            "name": "新北南勢角店",
+            "address": "新北市中和區興南路一段94號",
+            "map_url": "https://www.google.com.tw/maps/place/新北市中和區興南路一段94號",
+            "phone": "02-31511150",
+            "opening_hours": "平日：10:00-22:00\n假日：10:00-22:00"
+        },
+        {
+            "name": "新北永和樂華店",
+            "address": "新北市永和區永和路一段150號",
+            "map_url": "https://www.google.com.tw/maps/place/新北市永和區永和路一段150號",
+            "phone": "02-22323350",
+            "opening_hours": "平日：10:00-22:00\n假日：10:00-22:00"
+        },
+        {
+            "name": "新北新莊富國店",
+            "address": "新北市新莊區富國路49號1樓",
+            "map_url": "https://www.google.com.tw/maps/place/新北市新莊區富國路49號1樓",
+            "phone": "02-29018932",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "新北三重文化北店",
+            "address": "新北市三重區文化北路20之一號",
+            "map_url": "https://www.google.com.tw/maps/place/新北市三重區文化北路20之一號",
+            "phone": "02-29871260",
+            "opening_hours": "平日：09:00-22:30\n假日：09:00-22:00"
+        },
+        {
+            "name": "新北土城學府店",
+            "address": "新北市土城區學府路一段175號",
+            "map_url": "https://www.google.com.tw/maps/place/新北市土城區學府路一段175號",
+            "phone": "02-22662089",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "新北汐止中興店",
+            "address": "新北市汐止區中興路111號1樓",
+            "map_url": "https://www.google.com.tw/maps/place/新北市汐止區中興路111號1樓",
+            "phone": "02-26952077",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "桃園ATT店",
+            "address": "桃園市桃園區中正路47號1樓",
+            "map_url": "https://www.google.com.tw/maps/place/桃園市桃園區中正路47號1樓",
+            "phone": "03-2752309",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "桃園中壢中原店",
+            "address": "桃園市中壢區實踐路86號",
+            "map_url": "https://www.google.com.tw/maps/place/桃園市中壢區實踐路86號",
+            "phone": "03-4373777",
+            "opening_hours": "平日：10:00-22:00\n假日：10:00-22:00"
+        },
+        {
+            "name": "桃園林口長庚店",
+            "address": "桃園市龜山區復興北路41號",
+            "map_url": "https://www.google.com.tw/maps/place/桃園市龜山區復興北路41號",
+            "phone": "03-3278681",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "桃園中壢SOGO店",
+            "address": "桃園市中壢區新生路197號",
+            "map_url": "https://www.google.com.tw/maps/place/桃園市中壢區新生路197號",
+            "phone": "03-2805777",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "新竹金山旗艦店",
+            "address": "新竹市東區金山街19號",
+            "map_url": "https://www.google.com.tw/maps/place/新竹市東區金山街19號",
+            "phone": "03-6686360",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "新竹竹北三民店",
+            "address": "新竹縣竹北市三民路280號",
+            "map_url": "https://www.google.com.tw/maps/place/新竹縣竹北市三民路280號",
+            "phone": "03-6566988",
+            "opening_hours": "平日：10:00-22:00\n假日：10:00-22:00"
+        },
+        {
+            "name": "新竹清大店",
+            "address": "新竹市東區建功一路12號",
+            "map_url": "https://www.google.com.tw/maps/place/新竹市東區建功一路12號",
+            "phone": "03-5750020",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "中部台中美村店",
+            "address": "台中市西區美村路一段97號",
+            "map_url": "https://www.google.com.tw/maps/place/台中市西區美村路一段97號",
+            "phone": "04-23200857",
+            "opening_hours": "平日：10:00-22:00\n假日：10:00-22:00"
+        },
+        {
+            "name": "中部彰化員林靜修店",
+            "address": "彰化縣員林市靜修路44-3號",
+            "map_url": "https://www.google.com.tw/maps/place/彰化縣員林市靜修路44-3號",
+            "phone": "04-8369558",
+            "opening_hours": "平日：09:00-22:00\n假日：09:00-22:00"
+        },
+        {
+            "name": "南部台南崇學旗艦店",
+            "address": "台南市東區崇學路58號",
+            "map_url": "https://www.google.com.tw/maps/place/台南市東區崇學路58號",
+            "phone": "06-2688389",
+            "opening_hours": "平日：10:00-21:00\n假日：10:00-21:00"
+        },
+        {
+            "name": "南部嘉義文化店",
+            "address": "嘉義市東區文化路198號",
+            "map_url": "https://www.google.com.tw/maps/place/嘉義市東區文化路198號",
+            "phone": "05-2271056",
+            "opening_hours": "平日：11:00-21:00\n假日：11:00-21:00"
+        },
+        {
+            "name": "南部高雄掘江店",
+            "address": "高雄市新興區新田路151號",
+            "map_url": "https://www.google.com.tw/maps/place/高雄市新興區新田路151號",
+            "phone": "07-2216880",
+            "opening_hours": "平日：11:00-21:00\n假日：11:00-22:00"
+        }
+    ]
+}
