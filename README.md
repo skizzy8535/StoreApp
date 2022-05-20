@@ -4,7 +4,8 @@
 
 This is an app that can create drink order. All drink information comes from Airtable. It can be updated online all the time. 
 
-![Poster](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3417a739-fa2b-461c-b906-8647caa11604/Order_App.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220510%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220510T142417Z&X-Amz-Expires=86400&X-Amz-Signature=a5634280302c29c962611c2efe259af20aa37d4e9de67f31c5b90d7b3bf2e4e5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Order%2520App.png%22&x-id=GetObject)
+![Order App (1)](https://user-images.githubusercontent.com/45663826/169478489-0f11a271-6846-422a-8a6f-b789d61bc139.png)
+
 
 ### Features
 * Check different categories of drink by using scroll view
